@@ -2,7 +2,9 @@
 
 Although rare, we take security bugs in Twinkle seriously.
 
-If you believe you have found a security issue, please **privately** contact one or both of the currently-active maintainers:
+If you believe you have found a security issue, please **privately** contact security[at]miraheze.org.
+
+You may also want to contact a Twinkle Maintainer listed below:
 
 * @Amorymeltzer: [Email](https://en.wikipedia.org/wiki/Special:EmailUser/Amorymeltzer)
 * @MusikAnimal: [Email](https://en.wikipedia.org/wiki/Special:EmailUser/MusikAnimal)
