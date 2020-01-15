@@ -1,6 +1,6 @@
-# Twinkle [![Build Status](https://travis-ci.org/azatoth/twinkle.svg?branch=master)](https://travis-ci.org/azatoth/twinkle)
+# Twinkle [![Build Status](https://travis-ci.org/rhinosf1/miraheze-twinkle.svg?branch=master)](https://travis-ci.org/rhinosf1/miraheze-twinkle)
 
-Twinkle is a JavaScript application that gives Wikipedians a quick way of performing common maintenance tasks, such as nominating pages for deletion and cleaning up vandalism.
+Twinkle is a JavaScript application that gives Miraheze Editors a quick way of performing common maintenance tasks, such as nominating pages for deletion and cleaning up vandalism.
 
 See [Wikipedia:Twinkle][] on the English Wikipedia for more information.
 
