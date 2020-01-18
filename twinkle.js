@@ -39,9 +39,9 @@ Twinkle.defaultConfig = {};
  */
 Twinkle.defaultConfig.twinkle = {
 	 // General
-	summaryAd: " ([[M:TW|TW]])",
-	deletionSummaryAd: " ([[M:TW|TW]])",
-	protectionSummaryAd: " ([[M:TW|TW]])",
+	summaryAd: " ([[mh:meta:TW|TW]])",
+	deletionSummaryAd: " ([[mh:meta:TW|TW]])",
+	protectionSummaryAd: " ([[mh:meta:TW|TW]])",
 	userTalkPageMode: "window",
 	dialogLargeFont: false,
 	 // Fluff (revert and rollback)
